@@ -1,0 +1,44 @@
+#Virtual Environment
+venv/
+env/
+ENV/
+#Streamlit secrets
+.streamlit/secrets.toml
+#Environment Variables
+.env
+#Python Cache
+__pycache__/
+*.pyc
+#VS Code Settings
+.vscode/
+#Database Files
+*.db
+*.sqlite3
+#jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+#OS files
+.DS_Store
+Thumbs.db
+#Streamlit Cache
+.streamlit/
+#FAISS Vector Store Files
+*.faiss
+vectorstore/
+#Python test cache
+.pytest_cache/
+#SQLite WAL files
+*.db-journal
+#Logs
+*.log
+#Temp Files
+temp/
+tmp/
+#Large ML Models
+models/
+#Python Build Files
+build/
+dist/
+*.egg-info/
+#PyTorch Cache
+.cache/
+

@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain
+faiss-cpu
+sqlalchemy
+python-dotenv
+pypdf
+tiktoken
+streamlit
+langchain-community
+groq
+pandas
