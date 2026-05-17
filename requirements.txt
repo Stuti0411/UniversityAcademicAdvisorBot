@@ -10,3 +10,10 @@ streamlit
 langchain-community
 groq
 pandas
+openpyxl
+google-search-results
+requests
+serpapi
+sentence-transformers
+torch
+transformers
